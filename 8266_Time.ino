@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <time.h>
 
-const char* ssid     = "Galaxy M21E0F2";
-const char* password = "karthik@030";
+const char* ssid     = "xxxxxxxx"; // use your own ssid
+const char* password = "xxxxxxxx"; // use your own pass
 
 void setup() {
   Serial.begin(9600);
